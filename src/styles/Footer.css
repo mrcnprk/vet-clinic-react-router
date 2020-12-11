@@ -1,0 +1,15 @@
+.pageFooter{
+    height: 60px;
+    background-color: #f8f8f8;
+	border-top: 1px solid #e1e1e1;
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    flex-basis: 100%;
+    font-size: 14px;
+
+}
+
+.pageFooter p{
+    margin: 0 auto;
+}

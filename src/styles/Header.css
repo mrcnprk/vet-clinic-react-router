@@ -1,0 +1,68 @@
+.pageHeader{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 0 40px
+}
+
+.navList {
+    list-style: none;
+    display: flex;
+}
+
+.navList a {
+    padding: 0 25px;
+    opacity: 0.5;
+    transition: 0.2s
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    border-bottom: 3px solid transparent
+}
+
+a:hover{
+    opacity: 1
+}
+
+a.active{
+    opacity: 1
+}
+
+.brand{
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: 3px;
+}
+
+.logo a{
+    border: none;
+    display: block;
+}
+
+@media(max-width: 800px){
+
+    .pageNav{
+        margin: 0
+    }
+
+    .pageHeader{
+
+        height: auto;
+    }
+
+    .navList{
+        flex-wrap: wrap;
+        justify-content: flex-end;
+        /* max-width: 75%; */
+    }
+
+    .navList a{
+        padding: 15px 30px;
+    }
+
+}
