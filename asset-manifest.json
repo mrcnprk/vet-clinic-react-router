@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/vet-clinic-react-router/static/css/main.6bcfc68c.chunk.css",
-    "main.js": "/vet-clinic-react-router/static/js/main.5b30b02f.chunk.js",
-    "main.js.map": "/vet-clinic-react-router/static/js/main.5b30b02f.chunk.js.map",
+    "main.js": "/vet-clinic-react-router/static/js/main.af9ff819.chunk.js",
+    "main.js.map": "/vet-clinic-react-router/static/js/main.af9ff819.chunk.js.map",
     "runtime-main.js": "/vet-clinic-react-router/static/js/runtime-main.f2f677d0.js",
     "runtime-main.js.map": "/vet-clinic-react-router/static/js/runtime-main.f2f677d0.js.map",
     "static/js/2.20b6ecd0.chunk.js": "/vet-clinic-react-router/static/js/2.20b6ecd0.chunk.js",
@@ -15,13 +15,13 @@
     "static/media/PO.2b3fda06.jpg": "/vet-clinic-react-router/static/media/PO.2b3fda06.jpg",
     "static/media/banner.90d2afa7.jpg": "/vet-clinic-react-router/static/media/banner.90d2afa7.jpg",
     "static/media/coronavirus.48418cb7.png": "/vet-clinic-react-router/static/media/coronavirus.48418cb7.png",
-    "static/media/food.c6a26553.png": "/vet-clinic-react-router/static/media/food.c6a26553.png",
+    "static/media/food.4dac4545.png": "/vet-clinic-react-router/static/media/food.4dac4545.png",
     "static/media/logo.19ee1759.jpg": "/vet-clinic-react-router/static/media/logo.19ee1759.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f2f677d0.js",
     "static/js/2.20b6ecd0.chunk.js",
     "static/css/main.6bcfc68c.chunk.css",
-    "static/js/main.5b30b02f.chunk.js"
+    "static/js/main.af9ff819.chunk.js"
   ]
 }
